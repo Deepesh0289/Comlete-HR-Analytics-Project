@@ -6,8 +6,8 @@ I have analyze HR data and solve some sort of query and created a interactive da
 
 
 Requirements:
-DataSet:https://docs.google.com/spreadsheets/d/1WIi-lK9aQyVnzxx_tJyMSDhrjCLcouso/edit?usp=share_link&ouid=110451755104970660680&rtpof=true&sd=true
-PowerBI:https://powerbi.microsoft.com/en-us/downloads/
+[DataSet](https://docs.google.com/spreadsheets/d/1WIi-lK9aQyVnzxx_tJyMSDhrjCLcouso/edit?usp=share_link&ouid=110451755104970660680&rtpof=true&sd=true)
+[PowerBI](https://powerbi.microsoft.com/en-us/downloads/)
  
 Problesm Statement:- An organization facing problem of  Employee Attrition. Attrition stands for the departure of employees from the organization for any reason (voluntary or involuntary), including resignation, termination, death or retirement.
 
