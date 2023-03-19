@@ -17,8 +17,8 @@ Now its my responsibility to make a creative and interactive dashboard using pow
 
 Now its time to create dashboard.....
 
+![Screenshot 1](https://user-images.githubusercontent.com/76846273/226194735-82f0ea01-496d-42ed-b2b6-6396468c3a37.png)
+![Screenshot 2](https://user-images.githubusercontent.com/76846273/226194746-8967c619-ad80-4880-9ce0-2fd08eed20c6.png)
+[pbix file](https://drive.google.com/file/d/1bILSUOaEz4msnA9tTplthqprTPyc41Yx/view?usp=share_link)
 
-
-
-
-
+Above links are the screenshots and the pbix file of the dashboards.
